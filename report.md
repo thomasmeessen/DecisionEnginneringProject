@@ -215,7 +215,7 @@ The __Setup cost__ has already been mentioned to have no power due to the recess
 
 __Contractual opportunity__ is also not relevant given the sampling of proposals that is available.
 
-## Weights
+# Weights
 
 A number of the studied points of differences concern naturally the alignment of the proposal with the faculty strategy in terms of research and reduction of cost.
 Creating the concept of strategic alignment score seems a good start to create the relative evaluation of each points.
@@ -230,8 +230,8 @@ So having an advantages in one of those category is highly recommendable but man
 
 Because the two indicators have no relative evaluation a possible alternative a to build an aggregate of them using the following rule extended for disadvantages:
 
-| Research alignment       | +  | + | ~ | + |
-| Cost reduction           | +  | ~ | + | ~ |
+| Research alignment       | +  | + | 0 | + |
+| Cost reduction           | +  | 0 | + | 0 |
 |--------------------------|----|---|---|---|
 | Strategic Alignment (SA) | ++ | + | + | + |
 
@@ -260,10 +260,8 @@ Impacted alternatives are then __dropped without practical option of resubmittin
 # Discussion
 
 The determination of relative weight between criteria is a complex endeavor.
-In this case however it was disappointingly easy
-However once
+In this case however, it was disappointingly easy because there a a lot of criteria which have a role of tie-breaker.
 
-# Annexe
 
 
 
