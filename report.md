@@ -47,12 +47,12 @@ The document on which the argumentation is laid down is examined with respect to
 
 ## Criteria communicated prior to submission
 
-_Satisfy the requirement of a program_
+_Associated teaching need_
 
-An teaching program require this profile for it's well being, the contribution is noted as follow:
+An faculty program have submitted a profile for it's well being and development.
+The critical aspect of the proposition is evaluated qualitatively based on the description submitted.
 
-- 4: Would not function without
-- 3: Extensive transformation would be required, possibly involving dropping some part of it.
+- 3: If not obtained some essentials parts of the programs will have to be dropped
 - 2: Required to maintain current offer but minor adjustments are possible
 - 1: Will contribute to the program's development.
 
@@ -66,7 +66,7 @@ The proposed profile is given a score for the synergy of it's research contribut
 
 
 - 3: Complete support of the strategy
-- 2: Part of the contribution are not aligned
+- 2: The contribution consolidate actual current orientation
 - 1: The subject is innovative or support ancient subjects
 
 A innovative orientation is not much worse than a partial contribution but is better than it so a threshold of 1 is applied to evaluate the ranking contribution of this criteria.
@@ -86,15 +86,8 @@ _Start-up cost_
 
 Does the research activities require further funding to start ?
 
-- 2: Yes
-- 3: No
-
-_Contractual obligation_
-
-Previous contracts need this profile to be fulfilled, if their are satisfying other arrangement then "No" should be selected.
-
-- 2: Yes
-- 1: No
+- 2: No
+- 1: Yes
 
 _Contractual research opportunity_
 
@@ -114,12 +107,19 @@ A 3-shade description is simple enough to give a classification on a consensus m
 
 - 3: Contribute to multiple programs including prioritized programs
 - 2: Contribute to enrichment of a specialized program
-- 3: Inter courses synergies are not apparent
+- 1: Inter courses synergies are not apparent
 
 ## Additional criteria
 
 Those aspect of a professor profile have been submitted in addition to the required vision.
 And/or have been used by management do describe their solution.
+
+_Contractual obligation_
+
+Previous contracts need this profile to be fulfilled, if their are satisfying other arrangement then "No" should be selected.
+
+- 2: Yes
+- 1: No
 
 _Integration in a program strategy_
 
@@ -134,7 +134,7 @@ Amount of reduction toward a specific degree cost,
 
 - 3 = New program deliver a reduction of cost for a degree.
 - 2 = Replacing existing courses, no change in the overall cost
-- 1 = Developing a degree by adding new cost.
+- 1 = The majority of impacted program will see an increase of costs.
 
 
 _Opinion of board of advisers_
@@ -166,21 +166,31 @@ A possible development is a selection of 5 profile amongst the candidates.
 Based on experiences, a faculty of polytechnic engineering can receive around 10 candidatures.
 Here are the received:
 
-- __Mechanical and Aeronautical Engineering__ with emphasis on Multiphysics problem. This profile would strengthen strategic relation with the Von Kerman Institute, will develop the faculty towards space science and will assure the well-being of the Aerodynamic master.
+- __[1] Mechanical and Aeronautical Engineering__ with emphasis on Multiphysics problem. This profile would strengthen strategic relation with the Von Kerman Institute, will develop the faculty towards space science and will assure the well-being of the Aerodynamic master.
 
-| TC | SA | BA | SI | CO | SP | EQ | EF |
+- __[2] Data-Driven Modeling of Multi-Scale Biological Processes Modeling__. A profile aimed a developing a trans-disciplinary resource used in cooperation with a number of existing initiatives, it will further develop the faculty of Bioengineer and will some of the bachelor's mathematical course.
+- __[3] Computational Quantum Mechanics__. Research profile in a historical domain of excellence at the ULB.
+- __[4] Data-Science and Engineering__. Ensure the continuation of a contractual EU-funded master and strengthen the position of another inter-faculty master. The research potential is highly supported by the industry and exploit planned investment in research equipment.
+- __[5] Structural Engineering__. Resource needed to fulfill a master. While research domain is pertinent no EU-funding in the research group and industry contract have been reported.
+- __[6] Mathematic for the engineer__. Pedagogic profile of critical importance in all the faculty formation and contract-enabler for the industry by association to existing reasearch resources.  
+- __[7] Nanophotonics__. Fulfilling existing course that have lost resources in a master and possible teaching opportunity in bachelor. Aimed in response to European's intent to assume leadership in Quantum Technologies and exploiting existing precious research equipment.
+- __[8] Radiophysics__.
+
+## Scores
+
+| Criteria | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 |----|----|----|----|----|----|----|----|
-| 1  |  2 |  3 |  3 | 1  | 1  |  1 |  1 |
-
-- __Data-Driven Modeling of Multi-Scale Biological Processes Modeling__. A profile aimed a developing a trans-disciplinary resource used in cooperation with a number of existing initiatives, it will further develop the faculty of Bioengineer and will some of the bachelor's mathematical course.
-- __Computational Quantum Mechanics__. Research profile in a historical domain of excellence at the ULB.
-- __Data-Science and Engineering__. Ensure the continuation of a contractual EU-funded master and strengthen the position of another inter-faculty master. The research potential is highly supported by the industry and exploit planned investment in research equipment.
-- __Structural Engineering__. Resource needed to fulfill a master. While research domain is pertinent no EU-funding in the research group and industry contract have been reported.
-- __Mathematic for the engineer__. Pedagogic profile of critical importance in all the faculty formation and contract-enabler for the industry by association to existing reasearch resources.  
-- __Nanophotonics__. Fulfilling existing course that have lost resources in a master and possible teaching opportunity in bachelor. Aimed in response to European's intent to assume leadership in Quantum Technologies and exploiting existing precious research equipment.
-- __Radiophysics__.
-
-
+| Teaching needs |  3 |  3 |  3 | 1  | 1  |  1 |  1 |
+| Research adequacy |  2 |  3 |  3 | 1  | 1  |  1 |  1 |
+| Synergies |  2 |  3 |  3 | 1  | 1  |  1 |  1 |
+| Startup cost |  2 |  2 |  2 | 2  | 2 | 2 | 2 |
+| Contractual obligation |  1 |  1 | 1 | 1  | 1  |  1 |  1 |
+| Contractual opportunities |  2 |  2 |  3 | 1  | 1  |  1 |  1 |
+| Teaching attractiveness |  1 |  3 |  3 | 1  | 1  |  1 |  1 |
+| Contribution to costs |  2 |  1 |  3 | 1  | 1  |  1 |  1 |
+| Board of advisers |  2 |  3 |  3 | 1  | 1  |  1 |  1 |
+| Strategic partnership |  2 |  3 |  3 | 1  | 1  |  1 |  1 |
+| Investments exploitation |  1 |  3 |  3 | 1  | 1  |  1 |  1 |
 
 ---
 numbersections: true
