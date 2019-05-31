@@ -193,26 +193,27 @@ Soo that criteria is dropped
 
 | Criteria                 |  1 |  2 |  3 |  4 |  5 |  6 |  7 | 8 | 9 |
 |--------------------------|----|----|----|----|----|----|----|---|---|
-| Teaching needs           |  3 |  3 |  3 | 1  | 1  |  1 |  1 |   |   |
-| Research adequacy        |  2 |  3 |  3 | 1  | 1  |  1 |  1 |   |   |
-| Synergies                |  2 |  3 |  3 | 1  | 1  |  1 |  1 |   |   |
-| Startup cost             |  2 |  2 |  2 | 2  | 2  |  2 |  2 |   |   |
-| Contractual obligation   |  1 |  1 |  1 | 1  | 1  |  1 |  1 |   |   |
-| Contractual opportunity  |  2 |  2 |  3 | 1  | 1  |  1 |  1 |   |   |
-| Teaching attractiveness  |  1 |  3 |  3 | 1  | 1  |  1 |  1 |   |   |
-| Contribution to costs    |  2 |  1 |  3 | 1  | 1  |  1 |  1 |   |   |
-| Board of advisers        |  2 |  3 |  3 | 1  | 1  |  1 |  1 |   |   |
-| Strategic partnership    |  2 |  3 |  3 | 1  | 1  |  1 |  1 |   |   |
-| Investments exploitation |  1 |  3 |  3 | 1  | 1  |  1 |  1 |   |   |
-| Program strategy         |  1 |  3 |  3 | 1  | 1  |  1 |  1 |   |   |
+| Teaching needs           |  3 |  2 |  3 | 3  | 3  |  3 |  3 | 1 | 3 |
+| Research adequacy        |  2 |  2 |  1 | 3  | 1  |  2 |  1 | 1 | 3 |
+| Synergies                |  2 |  2 |  1 | 1  | 1  |  3 |  1 | 1 | 1 |
+| Startup cost             |  2 |  2 |  2 | 2  | 2  |  2 |  2 | 2 | 2 |
+| Contractual obligation   |  1 |  1 |  1 | 2  | 1  |  1 |  1 | 1 | 2 |
+| Contractual opportunity  |  2 |  1 |  1 | 1  | 1  |  1 |  1 | 1 | 1 |
+| Teaching attractiveness  |  2 |  2 |  1 | 1  | 1  |  3 |  1 | 1 | 1 |
+| Contribution to costs    |  2 |  1 |  2 | 2  | 2  |  3 |  1 | 1 | 1 |
+| Board of advisers        |  2 |  2 |  3 | 3  | 2  |  3 |  1 | 1 | 3 |
+| Strategic partnership    |  2 |  1 |  1 | 2  | 1  |  1 |  1 | 2 | 2 |
+| Investments exploitation |  1 |  1 |  1 | 1  | 2  |  1 |  1 | 2 | 1 |
+| Program strategy         |  2 |  2 |  1 | 2  | 1  |  2 |  1 | 1 | 2 |
 
 ## Discrimination power
 
 __Teaching needs__ have a little discriminating power because the context of recession have created a implicit restriction on the proposed profile to only what is required to maintain much of the previous offer in terms of courses.
 This criterion is marked for potential reduction.
 
-The __Setup cost__ has already been mentioned to have no power due to the recession context and is removed from the discusison.
+The __Setup cost__ has already been mentioned to have no power due to the recession context and is removed from the discussion.
 
+__Contractual opportunity__ is also not relevant given the sampling of proposals that is available.
 
 ## Weights
 
@@ -229,15 +230,15 @@ So having an advantages in one of those category is highly recommendable but man
 
 Because the two indicators have no relative evaluation a possible alternative a to build an aggregate of them using the following rule extended for disadvantages:
 
-| Research alignment  | +  | + | ~ | + |
-| Cost reduction      | +  | ~ | + | ~ |
-|---------------------|----|---|---|---|
+| Research alignment       | +  | + | ~ | + |
+| Cost reduction           | +  | ~ | + | ~ |
+|--------------------------|----|---|---|---|
 | Strategic Alignment (SA) | ++ | + | + | + |
 
 The aggregated strategy alignment can be compared for example to the __value of strategic partnership__.
 The following statement is probably consensual "Strategic partnership should happen at the cost of some strategic alignment".
 That proposition is reflecting that some highly efficient investment granted by partnership are worth spreading the faculty resources.
-The comparison can now be flesh out by specifying that a good partnership should allow a outranking of 1 step so the relative weight is __1/8 of the SA's weight__.
+The comparison can now be fleshed out by specifying that a good partnership should allow a outranking of 1 step so the relative weight is __1/8 of the SA's weight__.
 
 
 To further study the SA let's consider the role of __synergies for research__.
