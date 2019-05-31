@@ -40,9 +40,95 @@ It will guarantee both transparency, enabling efficient criticism and will disso
 
 # Criteria
 
+The criteria
+The first category is composed by the evaluation grid that have been communicated by th a proposition of professorship is evaluated in a qualitative manner mostly in accordance with the strategic objectives of the school.
+It is expected that the research group or teaching unit to describe the profile and present it's contribution to the strategic plan.
+The document on which the argumentation is laid down is examined with respect to a grid proposed by the management team of the school.
 
-## Quality
-### Contribution to teaching cost
+## Criteria communicated prior to submission
+
+_Satisfy the requirement of a program_
+
+An teaching program require this profile for it's well being, the contribution is noted as follow:
+
+- 4: Would not function without
+- 3: Extensive transformation would be required, possibly involving dropping some part of it.
+- 2: Required to maintain current offer but minor adjustments are possible
+- 1: Will contribute to the program's development.
+
+For this criteria the difference between two alternatives are of exponential importance with regards to their score difference.
+
+
+_Develop a research group in the direction defined by the school_
+
+The sucess of an enterprise is often correlated with it's ability to concentrate it's resources on a select few chosen tasks or objectives.
+The proposed profile is given a score for the synergy of it's research contribution with the school strategy.
+
+
+- 3: Complete support of the strategy
+- 2: Part of the contribution are not aligned
+- 1: The subject is innovative or support ancient subjects
+
+A innovative orientation is not much worse than a partial contribution but is better than it so a threshold of 1 is applied to evaluate the ranking contribution of this criteria.
+Any correlation with the objective of joint programs is relevant in this criteria.
+
+_Synergy with the school resource_
+
+The candidate professorship is able to leverage the specificities of existing teams from both the teaching or the research point of view.
+
+- 3: Strongly
+- 2: Moderately
+- 1: Marginally
+
+No significant appreciation between the research or the teaching perspective is expressed. A gap of 2 in this score is more evaluated than a gap of one hence, a linear evaluation of the difference is chosen.
+
+_Start-up cost_
+
+Does the research activities require further funding to start ?
+
+- 2: Yes
+- 3: No
+
+_Contractual obligation_
+
+Previous contracts need this profile to be fulfilled, if their are satisfying other arrangement then "No" should be selected.
+
+- 2: Yes
+- 1: No
+
+_Contractual research opportunity_
+
+The research activity proposed is likely to attract industrial of institutional investment.
+A simple 3 - shade score is proposed because of the likely relative lack of definition of the candidature.
+An emphasis is put on research area that have already proven their attractiveness.
+
+- 3: The field has been historically attractive
+- 2: Given the economic development their is potential
+- 1: Not of common industry interest
+
+_Teaching attractiveness_
+
+Having a rich program both in terms of quality or in terms of content is a fundamental to attract student and investment.
+Having courses fleshed out with specialized knowledge from various professor is a strong point of differentiation.
+A 3-shade description is simple enough to give a classification on a consensus might agree.
+
+- 3: Contribute to multiple programs including prioritized programs
+- 2: Contribute to enrichment of a specialized program
+- 3: Inter courses synergies are not apparent
+
+## Additional criteria
+
+Those aspect of a professor profile have been submitted in addition to the required vision.
+And/or have been used by management do describe their solution.
+
+_Integration in a program strategy_
+
+The program(s) benefiting from the potential professorship have made the proposal motivated by a strong strategic reflexion on the program cost-attractiveness.
+
+- 3: The professorship is well integrated within the program strategy and reforms.
+- 2: The program did not propose strategic evaluation on the program cost-attractiveness.
+
+_Contribution to teaching cost_
 
 Amount of reduction toward a specific degree cost,
 
@@ -50,65 +136,29 @@ Amount of reduction toward a specific degree cost,
 - 2 = Replacing existing courses, no change in the overall cost
 - 1 = Developing a degree by adding new cost.
 
-### Student attractiveness
 
-To represent the attractiveness of the courses proposed by the profile a 5 shade scale is proposed
+_Opinion of board of advisers_
 
-- 5 = Will attract students worldwide.
-- 4 = Concern a field of strong popularity
-- 3 = Strengthen he general formation
-- 2 = Concern a specialization which have a moderate popularity
-- 1 = Reinforce fields of weak interest
+A boards of selected industrial representatives have ranked each proposition following their insights on the future positioning that engineers should have.
+Given the complexity of sampling the industry world to have a neutral opinion, the valuation of this rank will be a threshold of 2 ranks.
 
-### Opinion of board of advisers
 
-The boards of selected representatives have ranked each proposition
-
-## Content
-### Strategic importance of courses
-
-The profile will positively impact the ongoing development strategy by proposing positive synergies with passed or planned investment.
-
-- 5 = Strongly
-- 1 = Not at all
-
-### Contractual obligation
-
-The profile is design to palliate needs that are of a contractual nature.
-
-- 3 = Yes and there is yet any other alternatives
-- 2 = Yes but there are other alternatives
-- 1 = No
-
-## Opportunity
-### Strategic partnership
+_Strategic partnership_
 
 The profile is designed to reinforce, develop or fulfill strategic partnership with other faculty or organization.
+This refer to historical or opportunistic relation that are not directly related to the poles but should be maintained.
 
-- 3 = Yes and the profile play an essential role in it.
-- 2 = Yes but the profile is satellite around the partnership
-- 1 = No
+- 2: The profile play an essential role.
+- 1: No
 
-### Use of existing equipment
+_Investments exploitation_
 
-The profile will capitalize on existing investments.
+External investment previously received by the faculty are available for exploitation by the proposed professorship.
+It can be materials, team members that may result in additional results in terms of research.
 
-- 2 = Yes
-- 1 = No
+- 2: Yes
+- 1: No
 
-### External funding
-
-The profile is likely to attract external investments
-
-- 3 = Very likely
-- 2 = Likely
-- 1 = Unlikely
-
-## Alternative Evaluation Table :
-
-| TC | SA | BA | SI | CO | SP | EQ | EF |
-|----|----|----|----|----|----|----|----|
-| 1  |  2 |  3 |  3 | 1  | 1  |  1 |  1 |
 
 # Alternatives
 
