@@ -4,7 +4,7 @@
 
 ---
 abstract: |
-  Ranking proposals of professorship present a good opportunity to experience the usage of MCDA tools.
+  The complex task of ranking proposals of professorship present a good opportunity to experience the usage of MCDA tools.
   The points of difference and their relative importance are presented and the weight are distributed using a Majority - Marginal - Compromise approach.
   The result is credible and stable.
   The stability is then analyzed to provide instruction to defend the result to a management team.
