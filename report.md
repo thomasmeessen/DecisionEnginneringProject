@@ -35,8 +35,8 @@ On paper it would propose a grounded, complex and interesting choice offering a 
 
 The differentiation of each proposal is based on a the submitted strategic assessment made by each smaller entity inside the school.
 The articulation between different points of comparison is started by the required list of evaluation published by the management prior to the submission.
-Then because it is the first time the process happen a series of others aspects emerge from the submitted work.
-And later came some last characteristics identified while debating the ranking.
+These however are not all off the criteria that have been applied as it was the first time that process was implemented.
+Some others characteristics have been found to emerge from the following debates or from the submitted files.
 
 ## Criteria communicated prior to submission
 
@@ -102,7 +102,7 @@ A 3-shade description is simple enough to give a classification on a consensus m
 - 2: Contribute to enrichment of a specialized program
 - 1: Inter courses synergies are not apparent
 
-## Additional criteria
+## Discovered criteria
 
 Those aspect of a professor profile have been submitted in addition to the required vision.
 And/or have been used by management do describe their solution.
@@ -182,14 +182,10 @@ The following profile for a future professorship have been presented.
 - __[9]Cybersecurity of communicating systems__. A important field of expertise nowadays, the development of cybersecurity is strongly supported by the faculty and associated partners.
 The professorship will contribute to number of existing program, some of which are required by contracts.
 
-The alternative set here presented do not cover the entire range of possible alternative.
-The reasons is that there is a strong context of cost reduction that have restricted the authors to proposal that are tightly narrow to pass the evaluation grid.
-Most of them are also born from a more or less reformed version of a professorship that have recently been closed.
-
-One result is that no proposition have required a start-up cost.
-Soo that criteria is dropped
 
 # Evaluations
+
+
 
 | Criteria                 |  1 |  2 |  3 |  4 |  5 |  6 |  7 | 8 | 9 |
 |--------------------------|----|----|----|----|----|----|----|---|---|
@@ -220,41 +216,82 @@ __Contractual opportunity__ is also not relevant given the sampling of proposals
 A number of the studied points of differences concern naturally the alignment of the proposal with the faculty strategy in terms of research and reduction of cost.
 Creating the concept of strategic alignment score seems a good start to create the relative evaluation of each points.
 
-So to build such indicators a first question could be:
+## Strategic alignment
 
 _Given two solutions is it preferred to have a slightly better research alignment or a advantages in terms of cost by student?_
 
 Immediately anyone will tells that this question is not pertinent because it do not reflect the complexity of the reality.
-The two advantages are not comparable because there is not enough resolution in the informations available to cast a meaningful vote.
-So having an advantages in one of those category is highly recommendable but management is not yet at a level on which cost analysis of a program are precise and trusted or the best research direction is known.
-
+The two types of advantages are not comparable.
+Mainly because there is not enough resolution in the informations available to cast a meaningful vote.
+More precisely, the management is not yet at a level that enable a program cost analysis precise and trusted or to formulate the best research direction.
 Because the two indicators have no relative evaluation a possible alternative a to build an aggregate of them using the following rule extended for disadvantages:
 
-| Research alignment       | +  | + | 0 | + |
-| Cost reduction           | +  | 0 | + | 0 |
-|--------------------------|----|---|---|---|
-| Strategic Alignment (SA) | ++ | + | + | + |
 
-The aggregated strategy alignment can be compared for example to the __value of strategic partnership__.
-The following statement is probably consensual "Strategic partnership should happen at the cost of some strategic alignment".
+ -------------------------- ---- --- --- --- --- ----
+  Research alignment         +    +   0   +   -   -   
+  Cost reduction             +    0   +   0   +   -   
+  Strategic Alignment        ++   +   +   +   -   - -  
+ -------------------------- ---- --- --- --- --- ----
+
+This table is not practical therefore a approximation should be used such as giving to each separate alignment an equal weight.
+
+__Strategic alignement (SA) =  1/2 ( Research + Cost )__
+
+## Breaking a tie
+
+Strategic Alignment is understandably the most important criteria however it has a limited resolution.
+The role of a tie breaker is push the profile that present the best design but not giving it enough so that it may step over one advantage in alignment.
+
+__weight(Marginal advantage) = 1/6 weight(Strategic alignment)__
+
+The criteria that have the potential to give a marginal advantage are the following:
+
+- Research synergies
+- Contractual opportunities
+- Board of advisers
+- Investments exploitation
+- Startup cost
+- Teaching attractiveness
+
+To assign the relative weight it is required to introduce some new assumption on what could be a desired solution.
+Note that those assumptions should be debated by a strategic committee before usage.
+
+_A good research synergy and enrichment of the program should place the alternative at the top_
+
+_Potential contracts and the opinion of advisers are more important than not having to acquire new equipment_
+
+_Exploiting existing investment is not as much important as following the trend in the industry_
+
+With the result :
+
+
+---------------------------  -----
+Research synergies           30    
+Teaching attractiveness      30    
+Board of advisers            12.5  
+Startup cost                 10    
+Investments exploitation     5    
+Contractual opportunities    12.5  
+Marginal advantage           100   
+---------------------------  -----
+
+
+## The importance of a strategic partnership
+
+_Strategic partnership should be allowed to happen at the cost of some strategic alignment._
+
 That proposition is reflecting that some highly efficient investment granted by partnership are worth spreading the faculty resources.
-The comparison can now be fleshed out by specifying that a good partnership should allow a outranking of 1 step so the relative weight is __1/8 of the SA's weight__.
+The comparison can now be fleshed out by specifying that a good partnership should allow a outranking of 1 step.
+
+__weight(Strategic Partnership) = 1/5 weight(Strategic Alignment)__
 
 
-To further study the SA let's consider the role of __synergies for research__.
-It seems that giving up a strategic advantage for any sort of synergy inside different research teams is not an option this criteria will be evaluated relatively to the SA as a __tie breaker__.
-For that role, a weight __between 1/10 and 1/18 of SA__ should be assigned.
-
-Next, the __enrichment of the courses also play a role of tie-breaker for the teaching need__
-with the same range of relative weight proposed.
-However given the non discriminating aspect of the teaching need it is not suitable to reason like that.
+## No-go criterion
 
 What about the case of programs that submit a __professorship without an accompanying reform__ of the program?
 It seems that this criterion is logically tied to the reduction of cost and the strategical position of the program.
-But it is more a no go criterion that trigger the rework of the proposal than a pertinent discriminating aspect.
-However in the case studied the prior statements did not included it as a requirement.
-Impacted alternatives are then __dropped without practical option of resubmitting__ a proposal.
-
+But it is more a no go criterion that should trigger the rework of the proposal than a pertinent discriminating aspect.
+However in the case studied the prior statements did not included it as a requirement leaving the impacted alternatives to be __dropped without practical option of resubmitting__ a proposal.
 
 
 # Discussion
