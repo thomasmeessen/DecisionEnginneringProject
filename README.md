@@ -174,9 +174,9 @@ are intended to develop a program they receive a minus while
 professorship resulting from a merging of previous functions will obtain
 a bonus.
 
--   3 = New program deliver a reduction of cost for a degree.
--   2 = Replacing existing courses, no change in the overall cost
--   1 = The majority of impacted program will see an increase of costs.
+-   3: New program deliver a reduction of cost for a degree.
+-   2: Replacing existing courses, no change in the overall cost
+-   1: The majority of impacted program will see an increase of costs.
 
 *Opinion of board of advisers*
 
@@ -216,44 +216,44 @@ Due to the favorable context the alternative set is inspired from a
 recent submission process. The following profile for a future
 professorship have been presented.
 
--   **\[1\] Mechanical and Aeronautical Engineering** with emphasis on
+-   **Mechanical and Aeronautical Engineering** with emphasis on
     Multiphysics problem. This profile would strengthen strategic
     relation with the Von Kerman Institute, will develop the faculty
     towards space science and will assure the well-being of the
     Aerodynamic master.
 
--   **\[2\] Data-Driven Modeling of Multi-Scale Biological Processes
+-   **Data-Driven Modeling of Multi-Scale Biological Processes
     Modeling**. A profile aimed a developing a trans-disciplinary
     resource used in cooperation with a number of existing initiatives,
     it will further develop the faculty of Bioengineer and will some of
     the bachelor's mathematical course.
 
--   **\[3\] Computational Quantum Mechanics**. Research profile in a
+-   **Computational Quantum Mechanics**. Research profile in a
     historical domain of excellence at the ULB.
 
--   **\[4\] Data-Science**. Ensure the continuation of a contractual
-    EU-funded master and strengthen the position of another
-    inter-faculty master. The research potential is highly supported by
-    the industry and exploit planned investment in research equipment.
+-   **Data-Science**. Ensure the continuation of a contractual EU-funded
+    master and strengthen the position of another inter-faculty master.
+    The research potential is highly supported by the industry and
+    exploit planned investment in research equipment.
 
--   **\[5\] Structural Engineering**. Resource needed to fulfill a
-    master. While research domain is pertinent no EU-funding in the
-    research group and industry contract have been reported.
+-   **Structural Engineering**. Resource needed to fulfill a master.
+    While research domain is pertinent no EU-funding in the research
+    group and industry contract have been reported.
 
--   **\[6\] Mathematic for the engineer**. Pedagogic profile of critical
+-   **Mathematic for the engineer**. Pedagogic profile of critical
     importance in all the faculty formation and contract-enabler for the
     industry by association to existing reasearch resources.\
 
--   **\[7\] Nanophotonics**. Fulfilling existing course that have lost
+-   **Nanophotonics**. Fulfilling existing course that have lost
     resources in a master and possible teaching opportunity in bachelor.
     Aimed in response to European's intent to assume leadership in
     Quantum Technologies and exploiting existing precious research
     equipment.
 
--   **\[8\] Radiophysics**.
+-   **Radiophysics**.
 
--   **\[9\]Cybersecurity of communicating systems**. A important field
-    of expertise nowadays, the development of cybersecurity is strongly
+-   **Cybersecurity of communicating systems**. A important field of
+    expertise nowadays, the development of cybersecurity is strongly
     supported by the faculty and associated partners. The professorship
     will contribute to number of existing program, some of which are
     required by contracts.
@@ -261,20 +261,20 @@ professorship have been presented.
 Evaluations
 ===========
 
-  Criteria                   1   2   3   4   5   6   7   8   9
-  -------------------------- --- --- --- --- --- --- --- --- ---
-  Teaching needs             3   2   3   3   3   3   3   1   3
-  Research adequacy          2   2   1   3   1   2   1   1   3
-  Synergies                  2   2   1   1   1   3   1   1   1
-  Startup cost               2   2   2   2   2   2   2   2   2
-  Contractual obligation     1   1   1   2   1   1   1   1   2
-  Contractual opportunity    2   1   1   1   1   1   1   1   1
-  Teaching attractiveness    2   2   1   1   1   3   1   1   1
-  Contribution to costs      2   1   2   2   2   3   1   1   1
-  Board of advisers          2   2   3   3   2   3   1   1   3
-  Strategic partnership      2   1   1   2   1   1   1   2   2
-  Investments exploitation   1   1   1   1   2   1   1   2   1
-  Program strategy           2   2   1   2   1   2   1   1   2
+  Criteria                   Aero   Bio   Quant   Data   Struct   Math   Nano   Radio   Cyber
+  -------------------------- ------ ----- ------- ------ -------- ------ ------ ------- -------
+  Teaching needs             3      2     3       3      3        3      3      1       3
+  Research adequacy          2      2     2       3      1        2      1      1       3
+  Synergies                  2      2     1       1      1        3      1      1       1
+  Startup cost               2      2     2       2      2        2      2      2       2
+  Contractual obligation     1      1     1       2      1        1      1      1       2
+  Contractual opportunity    2      1     1       1      1        1      1      1       1
+  Teaching attractiveness    2      2     1       1      1        3      1      1       1
+  Contribution to costs      2      1     2       2      2        3      1      1       1
+  Board of advisers          2      2     1       3      2        3      1      1       3
+  Strategic partnership      2      1     1       2      1        1      1      2       2
+  Investments exploitation   1      1     1       1      2        1      1      2       1
+  Program strategy           2      2     1       2      1        2      1      1       2
 
 Discrimination power
 --------------------
@@ -301,8 +301,8 @@ seems a good start to create the relative evaluation of each points.
 Strategic alignment
 -------------------
 
-*Given two solutions is it preferred to have a slightly better research
-alignment or a advantages in terms of cost by student?*
+> *Given two solutions is it preferred to have a slightly better
+> research alignment or a advantages in terms of cost by student?*
 
 Immediately anyone will tells that this question is not pertinent
 because it do not reflect the complexity of the reality. The two types
@@ -314,11 +314,11 @@ direction. Because the two indicators have no relative evaluation a
 possible alternative a to build an aggregate of them using the following
 rule extended for disadvantages:
 
-  --------------------- ---- ---- ---- ---- ---- ----
-   Research alignment    \+   \+   0    \+   \-   \-
-     Cost reduction      \+   0    \+   0    \+   \-
-   Strategic Alignment   ++   \+   \+   \+   \-   --
-  --------------------- ---- ---- ---- ---- ---- ----
+  --------------------- ---- ---- ---- ---- ---- ------
+   Research alignment    \+   \+   0    \+   \-    \-
+     Cost reduction      \+   0    \+   0    \+    \-
+   Strategic Alignment   ++   \+   \+   \+   \-   \- -
+  --------------------- ---- ---- ---- ---- ---- ------
 
 This table is not practical therefore a approximation should be used
 such as giving to each separate alignment an equal weight.
@@ -333,7 +333,7 @@ however it has a limited resolution. The role of a tie breaker is push
 the profile that present the best design but not giving it enough so
 that it may step over one advantage in alignment.
 
-**weight(Marginal advantage) = 1/6 weight(Strategic alignment)**
+**weight(Marginal advantage) \< 1/5 weight(Strategic alignment)**
 
 The criteria that have the potential to give a marginal advantage are
 the following:
@@ -349,14 +349,14 @@ To assign the relative weight it is required to introduce some new
 assumption on what could be a desired solution. Note that those
 assumptions should be debated by a strategic committee before usage.
 
-*A good research synergy and enrichment of the program should place the
-alternative at the top*
+> *A good research synergy and enrichment of the program should place
+> the alternative at the top*
 
-*Potential contracts and the opinion of advisers are more important than
-not having to acquire new equipment*
+> *Potential contracts and the opinion of advisers are more important
+> than not having to acquire new equipment*
 
-*Exploiting existing investment is not as much important as following
-the trend in the industry*
+> *Exploiting existing investment is not as much important as following
+> the trend in the industry*
 
 With the result :
 
@@ -367,21 +367,33 @@ With the result :
   Startup cost                10
   Investments exploitation    5
   Contractual opportunities   12.5
-  Marginal advantage          100
+  Marginal advantage          
   --------------------------- ------
 
-The importance of a strategic partnership
------------------------------------------
+Opposition to Strategic Alignment
+---------------------------------
 
-*Strategic partnership should be allowed to happen at the cost of some
-strategic alignment.*
+> *Strategic partnership should be allowed to happen at the cost of some
+> strategic alignment*
 
-That proposition is reflecting that some highly efficient investment
-granted by partnership are worth spreading the faculty resources. The
-comparison can now be fleshed out by specifying that a good partnership
-should allow a outranking of 1 step.
+> *Fulfilling the needs for teaching in a program can not always be done
+> without compromising on the strategic goals.*
 
-**weight(Strategic Partnership) = 1/5 weight(Strategic Alignment)**
+> *In no situation should an alternative that is barely aligned with the
+> faculty objectives be allowed at the top ranking.*
+
+To satisfy those conditions a first step is to give a minimum to the
+influence of SA:
+
+**2/5 \* weight(Strategic Partnership) \> weight(Marginal) +
+weight(Opposition)**
+
+A acceptable choice is to give more importance to teaching need and then
+fixing the weight of the Opposition criterion then :
+
+**weight(Opposition) = 1/4 weight(Strategic Partnership)**
+
+**weight(Teaching Needs) = 1/5 weight(Strategic Alignment)**
 
 No-go criterion
 ---------------
@@ -395,9 +407,67 @@ in the case studied the prior statements did not included it as a
 requirement leaving the impacted alternatives to be **dropped without
 practical option of resubmitting** a proposal.
 
+Weight distribution
+-------------------
+
+-   Strategic alignment (74%)
+    -   Research adequacy (50%)
+    -   Cost reduction (50%)
+-   Marginal gain (7.5%)
+    -   Investments exploitation (5%)
+    -   Advisers (12.5%)
+    -   Contractual opportunities (12.5%)
+    -   Synergies (30%)
+    -   Startup cost (10%)
+    -   Teaching enrichment (30%)
+-   Opposition to strategy (18.5%)
+    -   Strategic partnership (50%)
+    -   Teaching needs (50%)
+
 Discussion
 ==========
 
-The determination of relative weight between criteria is a complex
-endeavor. In this case however, it was disappointingly easy because
-there a a lot of criteria which have a role of tie-breaker.
+The obtained ranking is:
+
+-   Mathematic
+-   Data-Science
+-   Aeronautic
+-   Cybersecurity
+-   Bio-modeling
+-   Computational Quantum
+-   Nanophotonics
+-   Radiophysics
+
+Without surprise this ranking is highly sensible to a change of weight
+in the 50/50 split in strategic alignment. Reducing the importance of
+proposing a profile that result from the merging of previous
+professorship will place the Data-science profile at the top.
+
+A semi-surprise is also that the opinion of the board of adviser is not
+having an influence even if the associated weight were to be increased
+up to be a major player.
+
+Based on this analysis in someone would desire to defend the proposed
+ranking he would have to insist on the importance of assessing the cost
+of each program. Effectively pushing to the attendance the importance of
+proposing different scenario to reform a program to concentrate the cost
+on the focus of the faculty. But this would be quite impossible to say
+to people that have submitted their proposal without receiving specific
+instruction to accompany it with a reform of the costs.
+
+Concluding remarks
+==================
+
+The framework for decision making that a MCDA like D-Sight offer is
+useful in management because computing the model ( criteria, weight and
+evaluation) is accessible. It is also a powerful communication tool that
+allow to offer an information succinct way but with the possibility for
+each one to dive right into the small details in order to carefully
+craft a decision matrix. However the success of the discussion around
+the evaluation and the weight is highly dependent of the strategy
+clarity. Indeed a strategy is required for evaluation and if no
+agreement in found on the strategy then MCDA are of no use.
+
+But the framework definitely offer precision and efficiency in
+management is used with transparency. If not then it's worth nothing due
+to the sensibility to it's parameters.
